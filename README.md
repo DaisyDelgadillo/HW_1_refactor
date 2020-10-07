@@ -1,4 +1,4 @@
-# Horiseon_Project1
+# HW_1_refactor
 ## Purpose
 This is a fake site that was created for practice. The most complicated part of it was getting it on Github.
 
